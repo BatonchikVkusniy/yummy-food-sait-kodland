@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+main{
+    background-image: url('/img/main.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+header{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    
+}
+li{
+    margin-right: 45px;
+    
+}
+a{
+    text-decoration: none;
+    color:white;
+    
+    
+}
+.container{
+
+    text-align: center;
+    padding: 60px;
+    justify-content: space-between;
+    color: red;
+    font-weight: 500;
+}
+.white_container{
+    
+}
+header>div{
+    
+
+}
